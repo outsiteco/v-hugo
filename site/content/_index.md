@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "Welcome"
 date: 2018-04-08T14:56:16+08:00
 draft: false
-url: "about"
+url: "welcome"
 ---
 
-> If you’re looking for a community of well-rounded people who are doing interesting work, including entrepreneurs, developers, designers, artists, and academics, that like to play hard then you have come to the right place.
+> Work anywhere. Live differently.
 
 #### Before You Land
 Let us know what time you land in Denpasar so we can arrange a driver. Trust me, it's much easier to get to the villa when you have someone picking you up who frequently makes the trip.
